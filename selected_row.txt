@@ -1,0 +1,5 @@
+ID: 34
+Name: fatma
+Username: zehra
+Income: 800
+Tax: null

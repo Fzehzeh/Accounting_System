@@ -1,0 +1,7 @@
+ID	Name	Username	Income	Tax
+2	a	b	100.0	0
+10	f	t	100	30
+34	fatma	zehra	800	null
+66	z	t	5000	30
+111	z	t	9400	600
+123	z	t	5	null
